@@ -1,6 +1,6 @@
 ---
-title: Hextra 主题
-layout: hextra-home
+title: pqdBlog
+layout: pqdBlog-home
 ---
 
 {{< hextra/hero-badge >}}

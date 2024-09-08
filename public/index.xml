@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pqdxiao – My Site</title>
+    <title>pqdxiao – pqdBlog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in My Site on pqdxiao</description>
+    <description>Recent content in pqdBlog on pqdxiao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
